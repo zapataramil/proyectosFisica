@@ -1,0 +1,1 @@
+Calculo de la gravedad a partir de el estudio del movimiento de un pendulo simple, en base a la teoria de lo que es un movimientos armonico simple y algunas acotaciones con respecto al comportamiento del pendulo
